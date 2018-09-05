@@ -1,0 +1,7 @@
+version: '2'
+
+services:
+  java9-opencl-dev:
+    image: syncleus/java9-opencl-dev
+    build: .
+
